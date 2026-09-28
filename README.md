@@ -11,7 +11,11 @@ The project follows a complete Data Analyst workflow:
 **Raw Data → Table Schema → Data Cleaning → Data Validation → Business Questions → SQL Analysis → Business Insights**
 
 ---
+# 📸 PostgreSQL Analysis — Query Results
 
+### SQL Workflow & Query Results
+
+![PostgreSQL Customer Shopping Trends Analysis](query%20Result.jpeg)
 ## 🛠️ Tools & Technologies
 
 * **PostgreSQL**
