@@ -1,0 +1,34 @@
+-- 🛒 Customer & Sales Analysis 
+-- 1.	Which product categories generate the highest total revenue? 
+-- → Category-wise sales performance identify karna.  
+-- 2.	Which products are the top 10 best-selling items by purchase amount? → High-performing products identify karna.  
+-- 3.	Which locations generate the highest revenue and number of purchases? 
+-- → High-value markets identify karna.  
+-- 4.	Which age groups contribute the most revenue? 
+-- → Customer segmentation aur targeting ke liye.  
+-- 5.	What is the average purchase amount by gender? 
+-- → Male vs Female purchasing behavior compare karna.  
+-- 💳 Payment & Customer Behavior 
+-- 6.	Which payment method is most preferred by customers? 
+-- → Payment strategy optimize karne ke liye.  
+-- 7.	Are customers using their preferred payment method when making purchases? 
+-- → payment_method vs preferred_payment_method compare karna.  
+-- 8.	Which customer segments have the highest number of previous purchases? 
+-- → Loyal/repeat customers identify karna.  
+-- 9.	Do customers with subscriptions spend more than non-subscribers? 
+-- → Subscription program ki effectiveness measure karna.  
+-- 🎯 Marketing & Discount Analysis 
+-- 10.	Does applying a discount increase the average purchase amount? 
+-- → Discount strategy profitable hai ya nahi.  
+-- 11.	What percentage of customers use promo codes? 
+-- → Promo-code adoption measure karna.  
+-- 12.	Which categories have the highest promo-code usage? 
+-- → Marketing campaigns ko optimize karna.  
+-- 🚚 Operations & Customer Experience 
+-- 13.	Which shipping type is most commonly selected by customers? 
+-- → Shipping demand understand karna.  
+-- 14.	Which categories receive the highest average review ratings? 
+-- → Customer satisfaction ke liye.  
+-- 15.	Which combination of category, season, and location generates the highest sales? 
+-- → Seasonal + geographical business strategy banane ke liye. 
+ 
